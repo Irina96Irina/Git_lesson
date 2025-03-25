@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Hello world!");
     }
     //hello
-    //hello
+    //hallo
     //123
     //smth new
 }
